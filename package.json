@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "How are you doing?",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrereid633/node-apii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrereid633/node-apii/issues"
+  },
+  "homepage": "https://github.com/andrereid633/node-apii#readme"
+}
